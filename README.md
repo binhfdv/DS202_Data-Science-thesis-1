@@ -18,12 +18,13 @@
 * [Data details](#data-details)
 * [Code](#code)
 * [Presentation slides and Report](#presentation-slides-and-report)
+* [Results](#results)
 * [Reference](#reference)
 
 ## Data source
 
-* <a href="" target="_blank">Raw data</a>
-* <a href="" target="_blank">Clean data</a>
+* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/tree/main/raw_data" target="_blank">Raw data</a>
+* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/tree/main/processed_data" target="_blank">Clean data</a>
 
 
 ## Experiment pipelines
@@ -33,6 +34,10 @@
 * Label distribution
 
 ![](images/datainfo.png)
+
+* Word count
+
+![](images/word_count.png)
 
 * Comment length distribution over labels
 
@@ -49,10 +54,12 @@
 
 ## Presentation slides and Report
 
-* <a href="https://github.com/githubbinh/DS200.L21_BigData/blob/master/report_slides.pdf" target="_blank">report_slides.pdf</a>
-* <a href="https://github.com/githubbinh/DS200.L21_BigData/blob/master/report.pdf" target="_blank">report.pdf</a>
+* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/slides_UITVLFC.pptx" target="_blank">Report slides.pdf</a>
+* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/report_UIT-VLFC.pdf" target="_blank">Report</a>
+* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/guildlines_UITVLFC.pdf" target="_blank">Guildlines</a>
+
+## Results
 
 ## References
 
-* <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-79463-7_48" target="_blank">Machine Learning-Based Empirical Investigation for Credit Scoring in Vietnam’s Banking</a>
-* <a href="https://spark.apache.org/docs/1.2.2/ml-guide.html" target="_blank">Spark ML Programming Guide</a>
+* All references are cited in the report file.
