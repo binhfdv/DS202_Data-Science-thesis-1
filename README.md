@@ -18,8 +18,7 @@
 * [Data details](#data-details)
 * [Code](#code)
 * [Presentation slides and Report](#presentation-slides-and-report)
-* [Results](#results)
-* [Reference](#reference)
+* [References](#references)
 
 ## Data source
 
@@ -54,11 +53,9 @@
 
 ## Presentation slides and Report
 
-* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/slides_UITVLFC.pptx" target="_blank">Report slides.pdf</a>
+* <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/slides_UITVLFC.pptx" target="_blank">Report slides</a>
 * <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/report_UIT-VLFC.pdf" target="_blank">Report</a>
 * <a href="https://github.com/githubbinh/DS202_Data-Science-thesis-1/blob/main/guildlines_UITVLFC.pdf" target="_blank">Guildlines</a>
-
-## Results
 
 ## References
 
