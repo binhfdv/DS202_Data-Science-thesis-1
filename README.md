@@ -6,32 +6,41 @@
 * Techniques applied:
 > * Data collection and cleaning
 > * Annotation guildlines
-> * Deep learning models, Word tokenization
+> * Word tokenization, Deep learning models
 
 ## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
-
-> * [DS200.L21 / Big data](#DS200.L21--Big-data)
+> * [DS200.L21 / Big data](#ds202--data-science-thesis-1)
 * [About](#about)
 * [Table of contents](#table-of-contents)
 * [Data source](#data-source)
 * [Experiment pipelines](#experiment-pipelines)
-* [Feature extraction pipelines](#feature-extraction-pipelines)
+* [Data details](#data-details)
 * [Code](#code)
 * [Presentation slides and Report](#presentation-slides-and-report)
 * [Reference](#reference)
 
 ## Data source
 
-* <a href="https://www.kaggle.com/cuongvc93/klps-creditscring-challenge-for-students" target="_blank">klp's creditscring challenge for students</a>
+* <a href="" target="_blank">Raw data</a>
+* <a href="" target="_blank">Clean data</a>
 
 
 ## Experiment pipelines
-![](images/experimentalprocedure.png)
+![](images/pipelines.png)
 
-## Feature extraction pipelines
-![](images/TransPipeline.png)
+## Data details
+* Label distribution
+
+![](images/datainfo.png)
+
+* Comment length distribution over labels
+
+![](images/lenghtbylabel.png)
+
+* Annotation agreement results over 5 rounds
+
+![](images/anno_agreement.png)
 
 ## Code
 
