@@ -19,6 +19,7 @@
 * [Code](#code)
 * [Presentation slides and Report](#presentation-slides-and-report)
 * [References](#references)
+* [Cite us](#cite-us)
 
 ## Data source
 
@@ -60,3 +61,16 @@
 ## References
 
 * All references are cited in the report file.
+
+## Cite us
+```
+@INPROCEEDINGS{9997964,
+  author={Van Duong, Binh and Nguyen, An Trong and Ha, Chien Nhu and Duong, Hong-Hanh Thi and Tran, My-Linh Thi and Do, Trong-Hop},
+  booktitle={2022 25th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)}, 
+  title={UIT-VLFC: Vietnamese Lipstick Feedbacks Corpus}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/O-COCOSDA202257103.2022.9997964}}
+```
